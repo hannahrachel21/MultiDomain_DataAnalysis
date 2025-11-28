@@ -1,0 +1,59 @@
+# ============================
+# Python
+# ============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+# Virtual environments
+venv/
+.env/
+.venv/
+ENV/
+env/
+*.env
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ============================
+# OS-specific
+# ============================
+.DS_Store
+Thumbs.db
+
+# ============================
+# Project specific
+# ============================
+
+# Local datasets & uploaded Excel files
+datasets/
+uploaded_excels/
+
+# SQLite session DB or any local DB
+*.db
+sessions.db
+
+# Streamlit temp files
+.streamlit/
+
+# Byte-compiled / packaged files
+build/
+dist/
+
+# Uvicorn / fastapi auto-generated reload files
+*.pid
+
+# Cache
+.cache/
+*.cache/
