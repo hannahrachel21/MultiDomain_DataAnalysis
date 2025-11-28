@@ -52,10 +52,14 @@ And returns:
 
 ## Installation & Setup
 1. Clone the repository
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd DATA_ANALYSIS_APP
-2. Create & activate a virtual environment
-3. Install dependencies
+
+   git clone https://github.com/hannahrachel21/MultiDomain_DataAnalysis.git
+   
+   cd MultiDomain_DataAnalysis
+3. Create & activate a virtual environment
+4. Install dependencies
+   
    pip install -r requirements.txt
-4. Run the code
+6. Run the code
+   
    bash run_app.sh
